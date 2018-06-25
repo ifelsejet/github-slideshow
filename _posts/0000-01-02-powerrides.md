@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I didn't choose the thug life, the thug life chose me 
 Use the left arrow to go back!
